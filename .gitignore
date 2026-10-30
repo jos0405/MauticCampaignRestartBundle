@@ -1,0 +1,11 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Never belongs in the plugin
+vendor/
+composer.lock
+*.zip
+*.log
